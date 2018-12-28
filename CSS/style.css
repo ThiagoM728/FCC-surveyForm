@@ -20,7 +20,7 @@ h1 {
     font-size: 20px;
     height: 93%;
 /*    background-image: url("../images/pic1.png") no-repeat;*/
-    background-color: ghostwhite;
+    background: ghostwhite;
     border-radius: 5%;
     box-shadow: 1px 1px 20px 20px grey;
 }
