@@ -3,7 +3,7 @@
 }
 html, body {
     font-family: fantasy;
-    background-image: url("../images/pic1.png"); 
+    background-image: url("../images/pic1.png") no-repeat; 
 }
 body {
     padding-top: 1rem;
