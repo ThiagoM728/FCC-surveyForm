@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+html, body {
+    font-family: fantasy;
+    background-image: url("/images/pic1.jpg"); 
+}
+body {
+    padding-top: 1rem;
+}
+h1 {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 90px;
+    font-weight: 800;
+    text-align: center;
+}
+.container {
+    font-size: 20px;
+    height: 93%;
+    background: url("/images/pic1.jpg");
+    border-radius: 5%;
+    box-shadow: 1px 1px 20px 20px grey;
+}
+#description {
+    text-align: center;
+}
+#preferences {
+    text-align: left;
+}
+#submit {
+    border-radius: 5%;
+    box-shadow: 1px 1px 5px 5px grey;
+    padding: 7px 25px;
+}
