@@ -19,11 +19,7 @@ h1 {
 .container {
     font-size: 20px;
     height: 93%;
-<<<<<<< HEAD
 /*    background-image: url("../images/pic1.png") no-repeat;*/
-=======
-/*     background-image: url("../images/pic1.png") no-repeat; */
->>>>>>> 1830ec31e38e3a7688fac9792f02a9a2ba15f958
     border-radius: 5%;
     box-shadow: 1px 1px 20px 20px grey;
 }
