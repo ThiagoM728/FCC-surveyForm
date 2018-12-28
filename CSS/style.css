@@ -18,7 +18,7 @@ h1 {
 .container {
     font-size: 20px;
     height: 93%;
-    background: url("../images/pic1.png");
+    background: url("../images/pic1.png") no-repeat;
     border-radius: 5%;
     box-shadow: 1px 1px 20px 20px grey;
 }
